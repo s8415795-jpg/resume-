@@ -165,31 +165,10 @@ Chatbot assistant for resume feedback (LLM-based).
 
 Multi-lingual resume parsing.
 
-Would you like help prototyping this as a FastAPI + LangChain service or designing the DB schema?
 
-You said:
-yes
-ChatGPT said:
 
-To start prototyping this using FastAPI + LangChain, you'll need to log in to ChatGPT so we can use ChatGPT Canvas (a collaborative coding space). Once you're logged in, I can help you:
 
-Set up the FastAPI backend structure
 
-Create JD and Resume parsing routes
-
-Integrate LangChain for LLM-based semantic matching
-
-Define the relevance scoring logic
-
-Design the database schema
-
-Let me know once you're logged in, and we’ll get started.
-
-You said:
-give me code for basic fumnctionality
-ChatGPT said:
-
-Here’s a basic FastAPI-based backend for your Resume–JD Matching System, implementing core functionalities:
 
 ✅ Features in This Code
 
